@@ -17,7 +17,7 @@ I am a researcher focused on the **technical evaluation (Evals)** of frontier AI
 - **Frameworks:** Systems Safety Engineering (HAZOP), OECD/NIST AI Risk Management.
 
 ### 📈 Current Projects
-- **[Governly Africa](https://datawrapper.de):** Mapping AI regulatory readiness and governance gaps across 54 African nations.
+- **[Governly Africa](https://www.datawrapper.de/_/wB8Iz/?v=5):** Mapping AI regulatory readiness and governance gaps across 54 African nations.
 - **Contextual Red-Teaming:** Documenting safety filter degradation in regional socio-economic prompting scenarios.
 
 ---
